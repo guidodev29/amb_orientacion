@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">hdezguido_orientacion</string>
+    <string name="titulo_ufg">Universidad Francisco Gavidia</string>
+    <string name="texto_vertical">Este texto indica que la orientación del teléfono es vertical</string>
+    <string name="texto_horizontal">Este texto indica que la orientación del teléfono es horizontal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
